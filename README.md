@@ -10,6 +10,14 @@ Crear un modelo predictivo (machine learning) para optimizar el abastecimiento d
 - Modelo de Regresión basado en Árboles de Decisión, para estimar el volumen de pasajeros.
 - Método constructivo greedy para encontrar soluciones factibles de predicción de ventas.
 
+----------------------------------------------------------------------------------------------
+## Estructura del repositorio
+
+### Proceso de análisis
+- [data](https://github.com/semilun4/Datathon_MTY_2024/tree/main/data)
+- [syntax](https://github.com/semilun4/Datathon_MTY_2024/tree/main/syntax)
+- [utils](https://github.com/semilun4/Datathon_MTY_2024/tree/main/utils)
+
 
 ## data
 Datasets originales
