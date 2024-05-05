@@ -23,4 +23,4 @@ Crear un modelo predictivo (machine learning) para optimizar el abastecimiento d
 ## Link de la presentación
 
 - [Presentación](https://www.canva.com/design/DAGEWonBI7M/vmC2wRbBFnF8G7xNebvMjw/view?utm_content=DAGEWonBI7M&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
+- [Gráficos de los insights](https://github.com/semilun4/Datathon_MTY_2024/blob/main/utils/Visualizaciones.ipynb)
