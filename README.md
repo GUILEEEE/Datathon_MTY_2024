@@ -16,14 +16,6 @@ Crear un modelo predictivo (machine learning) para optimizar el abastecimiento d
 ### Proceso de análisis
 - [data](https://github.com/semilun4/Datathon_MTY_2024/tree/main/data): Contiene los datos originales del reto.
 - [syntax](https://github.com/semilun4/Datathon_MTY_2024/tree/main/syntax): Contiene los códigos que se desarrollaron.
-- [utils](https://github.com/semilun4/Datathon_MTY_2024/tree/main/utils)
-
-
-## data
-Datasets originales
-## syntax
-Jupyter notebooks para la modelación
-## utils
-Funciones para el análisis
-## output
-Datasets producto de limpieza y transformación de los datasets originales
+- [utils](https://github.com/semilun4/Datathon_MTY_2024/tree/main/utils): Contiene funciones auxiliares a los códigos principales.
+- [dic](https://github.com/semilun4/Datathon_MTY_2024/tree/main/utils): Contiene un diccionario de variables creadas.
+- [output](https://github.com/semilun4/Datathon_MTY_2024/tree/main/utils): Datasets producto de limpieza y transformación de los datasets originales
