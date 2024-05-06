@@ -13,17 +13,14 @@ Crear un modelo predictivo (machine learning) para optimizar el abastecimiento d
 ----------------------------------------------------------------------------------------------
 ## Estructura del repositorio
 
-### Proceso de análisis
-- [data](https://github.com/semilun4/Datathon_MTY_2024/tree/main/data)
-- [syntax](https://github.com/semilun4/Datathon_MTY_2024/tree/main/syntax)
-- [utils](https://github.com/semilun4/Datathon_MTY_2024/tree/main/utils)
+- [data](https://github.com/semilun4/Datathon_MTY_2024/tree/main/data): Contiene los datos originales del reto.
+- [syntax](https://github.com/semilun4/Datathon_MTY_2024/tree/main/syntax): Contiene los códigos que se desarrollaron.
+- [utils](https://github.com/semilun4/Datathon_MTY_2024/tree/main/utils): Contiene funciones auxiliares a los códigos principales.
+- [dic](https://github.com/semilun4/Datathon_MTY_2024/tree/main/utils): Contiene un diccionario de variables creadas.
+- [output](https://github.com/semilun4/Datathon_MTY_2024/tree/main/utils): Datasets producto de limpieza y transformación de los datasets originales
 
+----------------------------------------------------------------------------------------------
+## Link de la presentación
 
-## data
-Datasets originales
-## syntax
-Jupyter notebooks para la modelación
-## utils
-Funciones para el análisis
-## output
-Datasets producto de limpieza y transformación de los datasets originales
+- [Presentación](https://www.canva.com/design/DAGEWonBI7M/vmC2wRbBFnF8G7xNebvMjw/view?utm_content=DAGEWonBI7M&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Gráficos de los insights](https://github.com/semilun4/Datathon_MTY_2024/blob/main/utils/Visualizaciones.ipynb)
